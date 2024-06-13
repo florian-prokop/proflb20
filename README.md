@@ -1,7 +1,7 @@
 ### Hello, I'm Florian, nice to see u 👋
 
 
-- 🌱 I’m currently learning Java, React, TypeScript, JavaScript, C, HTML, MySQL, MongoDB, Linux, CSS, Android, Bootstrap
+- 🌱 I’m currently learning Java, React, React Native, TypeScript, JavaScript, C, HTML, MySQL, MongoDB, Linux, CSS, Android, Bootstrap
 - 💬 Ask me about anythyng, I'm an open book :)
 - 📫 How to reach me: Instagram: prokop.florian
 - ⚡ Fun fact: I'm a student lol
